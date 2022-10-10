@@ -1,0 +1,18 @@
+.encabezado{
+    background-color: black;
+}
+h1{
+    color: white;
+    position:absolute;
+    top: 0.4%;
+    left: 7%;
+}
+body{
+    background-color: gray;
+}
+.cuerpo{
+    padding: 50px;
+}
+label{
+    color: white;
+}
